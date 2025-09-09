@@ -22,5 +22,5 @@
 
 + Caso você seja acertado por um meteoro, o jogo termina e vai para a tela de game over, mostra sua pontuação e você pode recomeçar.
 
-![Tela 1](/Game/assets/screens/meteor1.png)
-![Tela 2](/Game/assets/screens/meteor2.png)
+![Tela 1](/assets/screens/meteor1.png)
+![Tela 2](/assets/screens/meteor2.png)
